@@ -46,23 +46,23 @@ df.head()
 df.info()
 ~~~
 # OUPUT:
-DATA :
+ ## DATA :
 
 ![output](./data.jpg)
 
-NON-NULL COUNT BEFORE :
+## NON-NULL COUNT BEFORE :
 
 ![output](./beforenull.jpg)
 
-NULL SUM :
+## NULL SUM :
 
 ![output](./null.jpg)
 
-UPDATED DATA :
+## UPDATED DATA :
 
 ![output](./air.jpg)
 
-NON-NULL COUNT AFTER :
+## NON-NULL COUNT AFTER :
 
 ![output](./after.jpg)
 
