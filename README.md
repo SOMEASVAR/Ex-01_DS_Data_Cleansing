@@ -63,6 +63,9 @@ NON-NULL COUNT AFTER :
 
 ![output](./after.jpg)
 
+## RESULT:
+The given data has been read and data cleaning has been performed and saved the cleaned data to a file.
+
 
 
 
