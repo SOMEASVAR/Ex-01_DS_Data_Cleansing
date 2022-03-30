@@ -22,6 +22,9 @@ Save the Clean data to the file
 
 # CODE:
 ~~~
+Developed by:R.SOMEASVAR.
+Register number:212221230103.
+
 import pandas as pd
 df=pd.read_csv("Data_set.csv")
 df.head(10)
@@ -55,7 +58,7 @@ NULL SUM :
 
 ![output](./null.jpg)
 
-DATA :
+UPDATED DATA :
 
 ![output](./air.jpg)
 
